@@ -1,0 +1,10 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board{
+    background-image: url("./Pic/NokLobTorBG.jpg");
+    height: 640px;
+    width: 360px;
+}
