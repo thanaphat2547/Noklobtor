@@ -1,1 +1,1 @@
-# Noklobtor or "นกหลบท่อ" is a FlappyBird Parody project for educational purpose in CS4773 - Computer Graphics (Academy Year 1/2023).
+Developed using HTML, CSS, and JavaScript, this project aimed to demonstrate understanding of 2D graphics theory and implementation of related algorithms through an interactive browser-based game inspired by Flappy Bird.
