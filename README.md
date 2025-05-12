@@ -1,4 +1,4 @@
-## 🎮 เกี่ยวกับโปรเจกต์
+## 🎮 Noklobtor
 [![Noklobtor.png](https://i.postimg.cc/j5fsgJ9G/Noklobtor.png)](https://postimg.cc/LYHKhhmT)
 
 โปรเจกต์นี้พัฒนาด้วย **HTML, CSS และ JavaScript**  
